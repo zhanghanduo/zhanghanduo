@@ -5,7 +5,7 @@ a PhD student at Nanyang Technological University, Singapore.
 
 My research interest is localization and machine learning on robot vision. Currently, I have fulfilled a stereo vision based project for unmanned ground vehicle.
 
-My Personal Page: https://zhanghanduo.github.io/.
+My Personal Page: https://handuo.top/.
 
 ### 💼  Things that I'm currently working on: 
 * Pursuing PhD's degree in Electrical and Electronic Engineering
