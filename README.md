@@ -32,7 +32,7 @@ My Personal Page: https://handuo.top/.
 
 
 <img src="https://count.getloli.com/get/@zhanghanduo" alt="zhanghanduo" />
+![Handuo's GitHub stats](https://github-stats-extended.vercel.app/api?username=zhanghanduo&show_icons=true)
 
-![Handuo's Github stats](https://github-readme-stats.vercel.app/api?username=zhanghanduo&show_icons=true)
-![Handuo's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghanduo&layout=compact)
+![Handuo's Top Lang](https://github-stats-extended.vercel.app/api/top-langs/?username=zhanghanduo&layout=compact)
 
